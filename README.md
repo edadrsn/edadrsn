@@ -48,12 +48,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edadrsn&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadrsn&layout=compact&theme=default" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=edadrsn&show_icons=true&theme=default"
+    width="400"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadrsn&layout=compact&theme=default"
+    width="400"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edadrsn&theme=default" width="48%" />
+  <img
+    src="https://streak-stats.demolab.com?user=edadrsn&theme=default"
+    width="400"
+    height="170"
+  />
 </p>
+
 
 
