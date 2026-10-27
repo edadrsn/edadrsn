@@ -40,10 +40,12 @@
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eda-dursun-94a5a0320/)
-
-
----
+<a href="https://www.linkedin.com/in/eda-dursun-94a5a0320/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
 ### 📊 GitHub Stats
 
@@ -52,11 +54,13 @@
     src="https://github-readme-stats.vercel.app/api?username=edadrsn&show_icons=true&theme=default"
     width="400"
     height="170"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadrsn&layout=compact&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edadrsn&layout=compact&theme=default&card_width=400"
     width="400"
     height="170"
+    alt="Most Used Languages"
   />
 </p>
 
@@ -65,8 +69,10 @@
     src="https://streak-stats.demolab.com?user=edadrsn&theme=default"
     width="400"
     height="170"
+    alt="GitHub Streak"
   />
 </p>
+
 
 
 
